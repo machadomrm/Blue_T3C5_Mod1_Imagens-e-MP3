@@ -1,7 +1,7 @@
-# Blue_T3C5_mod
+# PROJETOS - BLUE TECH
 Repositório criado para guardar os projetos usados no módulo de Lógica de Programação
 
---Projeto 1 - Detetive/Blue Tech--
+# Projeto 1 - Detetive/Blue Tech
 
 Esse projeto tem a finalidade de fixar os conhecimentos de Variáveis, Print, Input
 e Condicionais, para isso crie um programa que faça 5 perguntas para uma
@@ -20,7 +20,7 @@ Se a pessoa responder positivamente a:
 • Caso contrário, ele será classificado como "Inocente".
 
 
---Projeto 2 - Jokenpô/Blue Tech--
+# Projeto 2 - Jokenpô/Blue Tech
 
 Utilizando os conceitos aprendidos até estruturas de repetição, crie um,
 programa que jogue pedra, papel e tesoura (Jokenpô) com você.
@@ -35,7 +35,7 @@ vitórias de cada um (computador e jogador);
 de quantidade de rodadas, se não finalize o programa.
 
 
---Projeto 03 – Simulador de Votação/Blue Tech--
+# Projeto 03 – Simulador de Votação/Blue Tech
 
 Crie um programa que simule um sistema de votação, ele deve receber votos
 até que o usuário diga que não tem mais ninguém para votar, esse programa
@@ -59,7 +59,7 @@ O total de votos em branco;
 Qual candidato venceu a votação.
 
 
---Projeto 4 - Jogo de Ficção Interativa/Blue Tech--
+# Projeto 4 - Jogo de Ficção Interativa/Blue Tech
 
 O que é ficção interativa?
 Ficção interativa, geralmente abreviada como IF, é um software de emulação de
