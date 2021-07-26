@@ -57,7 +57,7 @@ O total de votos para cada candidato;
 O total de votos nulos;
 O total de votos em branco;
 Qual candidato venceu a votação.
-
+![alt text]( https://github.com/machadomrm/Blue_T3C5_mod/blob/main/MOD1/Simulador.png)
 
 # Projeto 4 - Jogo de Ficção Interativa/Blue Tech
 
