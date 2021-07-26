@@ -33,7 +33,7 @@ O programa tem que:
 vitórias de cada um (computador e jogador);
 • Perguntar se o Jogador quer jogar novamente, se sim inicie volte a escolha
 de quantidade de rodadas, se não finalize o programa.
-
+![alt text]( https://github.com/machadomrm/Blue_T3C5_mod/blob/main/MOD1/jokenpo.png)
 
 # Projeto 03 – Simulador de Votação/Blue Tech
 
