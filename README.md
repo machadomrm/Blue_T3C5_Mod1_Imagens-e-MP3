@@ -81,3 +81,4 @@ moodle como exemplo.
 Use toda sua criatividade para desenvolver uma história interessante e seja bem
 específico com relação as escolhas que precisam ser feitas, para que seu jogo
 seja divertido!
+![alt text]( https://github.com/machadomrm/Blue_T3C5_mod/blob/main/MOD1/Jogo_Interativo.png)
