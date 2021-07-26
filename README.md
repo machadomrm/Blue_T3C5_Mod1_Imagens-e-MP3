@@ -18,7 +18,7 @@ Se a pessoa responder positivamente a:
 • Entre 3 e 4 como "Cúmplice"
 • 5 como "Assassino".
 • Caso contrário, ele será classificado como "Inocente".
-
+![alt text]( https://github.com/machadomrm/Blue_T3C5_mod/blob/main/MOD1/Projeto%201%20Detetive.png)
 
 # Projeto 2 - Jokenpô/Blue Tech
 
